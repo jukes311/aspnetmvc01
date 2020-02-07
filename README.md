@@ -1,2 +1,2 @@
 # aspnetmvc01
-Movie Store using ASP.NET Core
+Band website using ASP.NET MVC.
