@@ -178,10 +178,10 @@
     <Content Include="Views\Shared\_Nav.cshtml" />
     <Content Include="Views\Shared\_Modals.cshtml" />
     <Content Include="Views\BandMember\Index.cshtml" />
+    <Content Include="Views\Tour\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Tour\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
